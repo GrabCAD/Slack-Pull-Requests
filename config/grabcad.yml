@@ -1,5 +1,5 @@
 # Please insert new items alphabetically.
-
+    
 lighthouse:
   members:
     - adigrabcad
@@ -11,6 +11,19 @@ lighthouse:
 
   channel:
     "#lighthouse"
+
+  quotes:
+    - ":wave:"
+
+octopus:
+  members:
+    - NigelAtGrabCAD
+    - EyalRaz
+    - Jittery
+    - arielhad
+
+  channel:
+    "#secret-octopus-team"
 
   quotes:
     - ":wave:"
