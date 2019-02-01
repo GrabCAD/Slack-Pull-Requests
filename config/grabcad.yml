@@ -2,7 +2,6 @@
 
 deathclaw:
   members:
-    - hmak3d
     - evan-grabcad
     - Maxodactyl
     - caseprince
@@ -115,3 +114,12 @@ alpha:
     
   channel:
     "#alpha"
+
+infra:
+  members:
+    - ebgc
+    - gp42
+    - hmak3d
+
+  channel:
+    "#infrastructure-intern"
